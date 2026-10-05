@@ -1,0 +1,24 @@
+# Unity cache & temp (Sab se heavy files)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Builds (Web ya PC builds repo ko heavy karti hain)
+/[Bb]uild/
+/[Bb]uilds/
+
+# Code Editors & IDEs (VS Code, Visual Studio, Rider)
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
+# OS Files
+.DS_Store
+Thumbs.db
